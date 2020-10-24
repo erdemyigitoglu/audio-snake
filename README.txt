@@ -1,0 +1,1 @@
+in this project. I will try to modify the project from projects for advance biggener webside and make the popular snake game accessible for blind users. 
